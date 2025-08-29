@@ -4,7 +4,8 @@
 }
 
 .logo {
-  height: 30%;
+  width: 30%;
+  min-width: 300px;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
